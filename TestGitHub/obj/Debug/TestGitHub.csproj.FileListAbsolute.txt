@@ -1,0 +1,8 @@
+D:\trant\project\Visualstudioproject\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe.config
+D:\trant\project\Visualstudioproject\TestGitHub\TestGitHub\bin\Debug\TestGitHub.exe
+D:\trant\project\Visualstudioproject\TestGitHub\TestGitHub\bin\Debug\TestGitHub.pdb
+D:\trant\project\Visualstudioproject\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csproj.AssemblyReference.cache
+D:\trant\project\Visualstudioproject\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csproj.SuggestedBindingRedirects.cache
+D:\trant\project\Visualstudioproject\TestGitHub\TestGitHub\obj\Debug\TestGitHub.csproj.CoreCompileInputs.cache
+D:\trant\project\Visualstudioproject\TestGitHub\TestGitHub\obj\Debug\TestGitHub.exe
+D:\trant\project\Visualstudioproject\TestGitHub\TestGitHub\obj\Debug\TestGitHub.pdb
